@@ -1,0 +1,28 @@
+{
+  "name": "io-gen",
+  "version": "1.0.0",
+  "description": "A little cli, just testing",
+  "main": "index.js",
+  "dependencies": {
+    "cli-spinners": "^2.6.0",
+    "inquirer": "^8.1.5",
+    "node": "^16.6.1",
+    "npm": "^7.24.0",
+    "ora": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Floppa-Softworks/io-gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Floppa-Softworks/io-gen/issues"
+  },
+  "homepage": "https://github.com/Floppa-Softworks/io-gen#readme"
+}
